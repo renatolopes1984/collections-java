@@ -4,12 +4,13 @@ public class Tarefa {
     //Atributo
     private String descricao;
 
-    //Métodos
+    //Método construtor
 
     public Tarefa(String descricao) {
         this.descricao = descricao;
     }
 
+    // Get para permitir acesso a atributos privados
     public String getDescricao() {
         return descricao;
     }
