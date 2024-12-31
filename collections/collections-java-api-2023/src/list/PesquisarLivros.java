@@ -31,11 +31,5 @@ public class PesquisarLivros {
         System.out.println("PESQUISA DE LIVROS POR TÍTULO");
         System.out.println(catalogoLivro.pesquisarPorTitulo("Livro 1"));
 
-
-
-
-
-
-
     }
 }
